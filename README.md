@@ -1,0 +1,1 @@
+This is my first website made during The Odin Project Course, to test my abilities and knowledge in HTML. It will contain a series of recipes organized by an index page. 
